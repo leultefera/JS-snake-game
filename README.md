@@ -1,2 +1,4 @@
-# JS-snake-game
-This game is built with Vanilla Javascript, and it reminds of my first Nokia 6110 phone ever with green screen :) 
+# Welcome my friend 
+
+Its sad you disobayed my instructions! You have failed the first round, its very important you follow and obey my instructions. 
+Come back again on the day you were instructed.
